@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reflenge" alt="reflenge" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://reflenge.com/#works](https://reflenge.com/#works)
+
+- 📝 I regularly write articles on [https://reflenge.com/#blog](https://reflenge.com/#blog)
+
+- 📫 How to reach me [https://reflenge.com/#contact](https://reflenge.com/#contact)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="/https://reflenge.com/#blog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://reflenge.com/#blog" height="30" width="40" /></a>
